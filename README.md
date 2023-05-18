@@ -15,6 +15,7 @@ This is a mini project to familiarize myself with KiCAD. "This project aims to d
 
 
 ## 3D Views
+## Front View
 
 
 ![Front View](https://github.com/Brafamous/Flashlight-PCB-Design-Using-KiCAD/blob/main/Screenshots/View1.PNG)
